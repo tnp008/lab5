@@ -29,6 +29,11 @@
 			"name": "Allen Newell",
 			"description": "Really into psychology",
 			"imageURL": "http://uploads.edubilla.com/awards-winners/92/b4/allen-newell.jpg"
+		},
+		{
+			"name": "Timothee Chalamet",
+			"description": "King Henry V",
+			"imageURL": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-king-henry-v-1573250831.jpg?crop=0.493xw:0.986xh;0,0&resize=480:*"
 		}
 	]
 }
